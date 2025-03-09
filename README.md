@@ -1,3 +1,2 @@
 # my-gitops-demo
-
-Hi all 
+hi sunil 
